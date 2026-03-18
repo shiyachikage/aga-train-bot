@@ -1,4 +1,4 @@
 discord.py
 pandas
 flask
-jholiday
+holidays
